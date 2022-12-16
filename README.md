@@ -1,6 +1,6 @@
 # CS250
 
-**Below are my responses to three prompt questions from CS 250 regarding the use of agile principles**
+**(Below are my responses to three prompt questions from CS 250 regarding the use of agile principles.)**
 
 **Question 1: How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 It's important to remember that a client's vision will often need some help during conception. When assisting clients with
